@@ -1,2 +1,1 @@
-# mcdo-infra
-Repositorio MCDO infraestructura cloud
+# test-uai-lab01-mlops
